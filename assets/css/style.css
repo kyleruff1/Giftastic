@@ -29,3 +29,13 @@ h2      {
     text-shadow: 2px 2px black;
 
 }
+
+.gifDiv      {
+    width: auto;
+    height: 550px;
+
+}
+
+img {
+    height: 100%;
+}
