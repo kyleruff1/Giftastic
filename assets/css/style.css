@@ -1,0 +1,31 @@
+body    {
+    background-image: url(/assets/images/rasputin.jpg);
+    background-color: black;
+    background-size: 150%;
+    color: white;
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+  font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+.jumbotron  {
+    background-color: orangered;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    height: 10%;
+
+}
+
+.btn    {
+    background-color: orangered;
+    font-family: 'Montserrat Subrayada', sans-serif;
+    
+}
+
+h1  {
+    text-shadow: 2px 2px black;
+
+}
+h2      {
+    text-shadow: 2px 2px black;
+
+}
